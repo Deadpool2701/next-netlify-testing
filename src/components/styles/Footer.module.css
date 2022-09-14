@@ -1,0 +1,56 @@
+.container {
+  height: auto;
+
+  background-color: #3498db;
+  display: flex;
+  flex-direction: row;
+}
+.footer {
+  display: flex;
+
+}
+.footer_text1 {
+  color: white;
+  font-size: larger;
+  padding-left: 7.75rem;
+  width: 25rem;
+}
+
+.icon1 {
+  height: 1.875rem;
+  width: 1.875rem;
+}
+
+.footer_text2 {
+  padding-top: .9375rem;
+  color: white;
+  font-size: larger;
+  padding-left: 7.75rem;
+  width: 6.25rem;
+}
+
+.footer_text3 {
+  padding-top: .9375rem;
+  color: white;
+  font-size: larger;
+  padding-left: 15.75rem;
+  width: 6.25rem;
+}
+
+.socialmedia {
+ 
+  padding-top: .625rem;
+}
+.socialmedia a {
+  padding-right: .9375rem;
+}
+
+.footer li {
+  
+  white-space: nowrap;
+}
+
+.logo {
+  height: max-content;
+  width: max-content;
+}

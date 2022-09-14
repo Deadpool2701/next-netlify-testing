@@ -1,0 +1,73 @@
+.container {
+  height: auto;
+  display: flex;
+  align-items: center;
+  background-color: #142850;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.heading {
+  color: white;
+  font-size: 30px;
+}
+
+.frequency {
+  display: flex;
+  background-color: white;
+  box-shadow: 0rem .6138rem 3.0288rem rgba(0, 0, 0, 0.25);
+  border-radius: .625rem;
+  margin-bottom: 2.5rem;
+}
+.frequency_text {
+  padding-left: 3.125rem;
+  padding-right: 3.125rem;
+}
+.textbox {
+  width: 68.5rem;
+  height: auto;
+  background: #142850;
+  box-shadow: 0rem .6137rem 2.9049rem rgba(0, 0, 0, 0.25);
+  border-radius: .8183rem;
+  margin-bottom: 3.125rem;
+}
+
+.textbox_text {
+  color: white;
+  font-size: large;
+  padding: 5rem;
+}
+
+.analysis {
+  background: rgba(20, 40, 80, 0.8);
+  box-shadow: 0rem .6138rem 2.905rem rgba(0, 0, 0, 0.25);
+  border-radius: 1.875rem;
+  margin-bottom: 3.125rem;
+}
+
+.table_style {
+  display: flex; 
+}
+
+.analysis_table {
+  width: 25rem;
+}
+
+
+.tableheader {
+  background-color: white;
+  font-size: large;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.tableheader th {
+  white-space: nowrap;
+}
+ .tablerow {
+ 
+  color: white;
+  text-align: center;
+ }
+

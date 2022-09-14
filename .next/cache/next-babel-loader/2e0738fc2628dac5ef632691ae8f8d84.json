@@ -1,0 +1,1 @@
+{"ast":null,"code":"var FilterMethod;\n\n(function (FilterMethod) {\n  FilterMethod[FilterMethod[\"year\"] = 0] = \"year\";\n})(FilterMethod || (FilterMethod = {}));\n\nexport { FilterMethod };","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"styled-components\";\nconst Footer = styled.div.withConfig({\n  displayName: \"footer__Footer\",\n  componentId: \"sc-1ldm2wy-0\"\n})([\"height:200px;width:100%;margin-top:50px;background-color:\", \";\"], ({\n  theme\n}) => theme.colors.gray[\"70\"]);\nexport default Footer;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,88 @@
+.container {
+  height: auto;
+  width: auto;
+  display: flex;
+  align-items: center;
+  background-color: #142850;
+  flex-direction: column;
+  align-content: center;
+}
+
+.heading {
+  color: white;
+  font-size: 1.875rem;
+}
+.subheading {
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6875rem;
+  color: white;
+  align-self: flex-start;
+  padding-left: 6.25rem;
+}
+.para {
+  color: white;
+  align-self: flex-start;
+  padding-left: 12.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  align-self: flex-start;
+  font-size: medium;
+  width: 31.25rem;
+}
+.pic {
+  padding-left: 3.125rem;
+  align-self: flex-end;
+  max-width: 100%;
+  flex-basis: 70%;
+}
+.keyword {
+  padding-bottom: 18.75rem;
+  padding-top: 6.25rem;
+  padding-left: 12.5rem;
+  align-self: flex-start;
+}
+.textbox {
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 5%;
+  font-size: 2.5rem;
+  color: white;
+  width: 64rem;
+  height: 42rem;
+  background: #142850;
+  box-shadow: 0rem .6137rem 2.9049rem rgba(0, 0, 0, 0.25);
+  border-radius: .8183rem;
+}
+
+.textbox::placeholder {
+  position: absolute;
+  left: 2%;
+  top: 5%;
+  color: white;
+  font-size: 2.5rem;
+}
+
+.textinbox {
+  color: white;
+  padding-left: 1.25rem;
+  padding-top: .625rem;
+}
+
+.submitButton {
+font-size: larger;
+color: white;
+position: absolute;
+width: 16.5625rem;
+height: 2.8125rem;
+left: 36.6875rem;
+top: 103.1875rem;
+
+background: #142850;
+box-shadow: 0rem .6137rem 2.9049rem rgba(0, 0, 0, 0.25);
+border-radius: .8183rem;
+}

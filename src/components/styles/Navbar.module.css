@@ -1,0 +1,57 @@
+.container {
+  height: 6.25rem;
+  width:auto;
+  padding: 0rem 3.125rem;
+  background-color: #142850;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.links {
+  color: white;
+  
+}
+
+.logo {
+  height: 2rem;
+  width: 12.3968rem;
+}
+
+.icon1 {
+  height: 1.875rem;
+  width: 1.875rem;
+}
+
+.item {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.list {
+  padding: 23rem;
+  display:flex;
+  align-items:right;
+  list-style: none;
+  color: white;
+}
+
+.list li {
+  white-space: nowrap;
+}
+
+.listItem {
+  margin: 1.25rem;
+  color: white;
+  font-size: large;
+  font-weight: 500;
+}
+.account{
+    position: relative;
+    padding: .625rem;
+}
+
